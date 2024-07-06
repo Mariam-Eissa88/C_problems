@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1712068691 source:c:\users\helal\documents\c_programming\a. way too long words\untitled1.c
+
+1712071066 source:c:\users\helal\documents\c_programming\a. way too long words\main.c
+	<stdio.h>
+	<stdlib.h>
+
