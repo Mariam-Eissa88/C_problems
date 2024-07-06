@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1714651255 source:c:\users\helal\documents\c_programming\hulk\main.c
+	<stdio.h>
+	<stdlib.h>
+

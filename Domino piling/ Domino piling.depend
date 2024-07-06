@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1712286069 source:c:\users\helal\documents\c_programming\ domino piling\main.c
+	<stdio.h>
+	<stdlib.h>
+

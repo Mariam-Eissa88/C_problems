@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1720225624 source:c:\users\helal\documents\c_programming\helpful maths\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+

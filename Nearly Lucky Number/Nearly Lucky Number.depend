@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1712878959 source:c:\users\helal\documents\c_programming\nearly lucky number\main.c
+	<stdio.h>
+	<stdlib.h>
+	<inttypes.h>
+	<wchar.h>
+

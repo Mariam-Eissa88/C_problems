@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1719794456 source:c:\users\helal\documents\c_programming\stack_ds\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack_ds.h"
+
+1719794456 source:c:\users\helal\documents\c_programming\stack_ds\stack_ds.c
+	<stdio.h>
+	<stdlib.h>
+	"stack_ds.h"
+
+1719793890 c:\users\helal\documents\c_programming\stack_ds\stack_ds.h
+	"std_types.h"
+
+1719778308 c:\users\helal\documents\c_programming\stack_ds\std_types.h
+

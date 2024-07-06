@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1712291355 source:c:\users\helal\documents\c_programming\beautiful matrix\main.c
+	<stdio.h>
+	<stdlib.h>
+

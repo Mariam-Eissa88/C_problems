@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1712463862 source:c:\users\helal\documents\c_programming\word capitalization\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

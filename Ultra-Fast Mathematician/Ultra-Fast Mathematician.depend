@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1713503151 source:c:\users\helal\documents\c_programming\ultra-fast mathematician\main.c
+	<stdio.h>
+	<stdlib.h>
+

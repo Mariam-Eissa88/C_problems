@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1712460302 source:c:\users\helal\documents\c_programming\boy or girl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

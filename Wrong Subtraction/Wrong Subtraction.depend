@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1712881020 source:c:\users\helal\documents\c_programming\wrong subtraction\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	<wchar.h>
+

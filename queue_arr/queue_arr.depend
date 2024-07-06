@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1719867556 source:c:\users\helal\documents\c_programming\queue_arr\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queue_ds.h"
+
+1719868848 source:c:\users\helal\documents\c_programming\queue_arr\queue_ds.c
+	<stdio.h>
+	<stdlib.h>
+	"queue_ds.h"
+
+1719868793 c:\users\helal\documents\c_programming\queue_arr\queue_ds.h
+	"pllatfoorm.h"
+
+1719858463 c:\users\helal\documents\c_programming\queue_arr\pllatfoorm.h
+

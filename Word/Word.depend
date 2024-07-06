@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1712467044 source:c:\users\helal\documents\c_programming\word\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+

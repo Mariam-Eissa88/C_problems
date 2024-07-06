@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1720055071 source:c:\users\helal\documents\c_programming\ i wanna be the guy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

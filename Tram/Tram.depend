@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1712678804 source:c:\users\helal\documents\c_programming\tram\main.c
+	<stdio.h>
+	<stdlib.h>
+
